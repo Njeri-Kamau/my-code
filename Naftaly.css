@@ -1,0 +1,111 @@
+<style>
+
+  body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #fffdf6;
+    color: #333;
+    line-height: 1.6;
+  }
+
+  section {
+    padding: 80px 20px;
+    max-width: 900px;
+    margin: auto;
+  }
+
+  section h2 {
+    font-size: 2em;
+    margin-bottom: 20px;
+    color: #d84c2f;
+    text-align: center;
+  }
+
+  section p {
+    font-size: 1.1em;
+    color: #444;
+  }
+
+  section ul {
+    list-style: none;
+    padding: 0;
+    font-size: 1.1em;
+    line-height: 1.8;
+    color: #444;
+  }
+
+  section ul li {
+    padding: 10px 0;
+    border-bottom: 1px solid #eee;
+  }
+
+  /* Hero section */
+  .hero {
+    background: linear-gradient(to right, #f7c59f, #ffddb3);
+    text-align: center;
+    padding: 100px 20px;
+  }
+
+  .hero h1 {
+    font-size: 3em;
+    margin-bottom: 10px;
+    color: #222;
+  }
+
+  .hero p {
+    font-size: 1.2em;
+    margin-bottom: 25px;
+  }
+
+  .hero a {
+    background-color: #d84c2f;
+    color: white;
+    padding: 15px 30px;
+    text-decoration: none;
+    border-radius: 8px;
+    font-weight: bold;
+    font-size: 1em;
+    display: inline-block;
+    
+  }
+
+  .hero a:hover {
+    background-color: #b53e25;
+  }
+
+  /* CTA section styles */
+  .cta {
+    background-color: #ffe8d6;
+    text-align: center;
+    padding: 60px 20px;
+  }
+
+  .cta h2 {
+    font-size: 2em;
+    color: #d84c2f;
+    margin-bottom: 20px;
+  }
+
+  .cta p {
+    font-size: 1.1em;
+    color: #333;
+    margin-bottom: 20px;
+  }
+
+  .cta a {
+    background-color: #d84c2f;
+    color: white;
+    padding: 15px 30px;
+    text-decoration: none;
+    border-radius: 8px;
+    font-weight: bold;
+    font-size: 1em;
+    display: inline-block;
+    
+  }
+
+  .cta a:hover {
+    background-color: #b53e25;
+  }
+</style>
